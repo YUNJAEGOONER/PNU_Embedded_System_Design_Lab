@@ -1,5 +1,5 @@
 ﻿C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\test1.pbd
-C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\system_stm32f10x.pbi
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\main.pbi
 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\misc.pbi
 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_adc.pbi
 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_bkp.pbi
@@ -14,6 +14,7 @@ C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\s
 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_fsmc.pbi
 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_gpio.pbi
 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_i2c.pbi
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_it.pbi
 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_iwdg.pbi
 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_pwr.pbi
 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_rcc.pbi
@@ -23,5 +24,4 @@ C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\s
 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_tim.pbi
 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_usart.pbi
 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_wwdg.pbi
-C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\main.pbi
-C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_it.pbi
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\system_stm32f10x.pbi

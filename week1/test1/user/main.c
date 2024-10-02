@@ -50,10 +50,10 @@ else if((GPIOB_IDR & 0x0400) == 0){ // Key2
 GPIOD_BSRR |= 0x84; // PD2, PD7 OFF LED1, LED4
 }
 else if((GPIOC_IDR & 0x2000) == 0){ //key 3
-GPIOD_BRR |= 0x18; // PD3, PD4 ON LED2, LED3
+GPIOD_BRR |= 0x84; // PD3, PD4 ON LED2, LED3
 }
 else if((GPIOA_IDR & 0x01) == 0){ //key 4
-GPIOD_BSRR |= 0x18; // PD3, PD4 OFF LED2, LED3
+GPIOD_BSRR |= 0x84; // PD3, PD4 OFF LED2, LED3
 }
 }
 return 0;

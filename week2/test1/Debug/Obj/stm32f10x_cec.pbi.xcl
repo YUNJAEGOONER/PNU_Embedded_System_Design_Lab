@@ -1,19 +1,19 @@
-"C:\Users\user\Desktop\test1\libraries\STM32F10x_StdPeriph_Driver_v3.5\src\stm32f10x_cec.c"
+"C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week2\test1\libraries\STM32F10x_StdPeriph_Driver_v3.5\src\stm32f10x_cec.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -I
-C:\Users\user\Desktop\test1\libraries\CMSIS\DeviceSupport
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week2\test1\libraries\CMSIS\DeviceSupport
 -I
-C:\Users\user\Desktop\test1\libraries\CMSIS\DeviceSupport\Startup
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week2\test1\libraries\CMSIS\DeviceSupport\Startup
 -I
-C:\Users\user\Desktop\test1\libraries\STM32F10x_StdPeriph_Driver_v3.5\inc
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week2\test1\libraries\STM32F10x_StdPeriph_Driver_v3.5\inc
 -I
-C:\Users\user\Desktop\test1\libraries\STM32F10x_StdPeriph_Driver_v3.5\src
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week2\test1\libraries\STM32F10x_StdPeriph_Driver_v3.5\src
 -I
-C:\Users\user\Desktop\test1\user
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week2\test1\user
 -I
-C:\Users\user\Desktop\test1\user\inc
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week2\test1\user\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\CMSIS\Core\Include
 -I
@@ -23,17 +23,17 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\inc\c
 -I
-C:\Users\user\Desktop\test1\libraries\CMSIS\DeviceSupport
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week2\test1\libraries\CMSIS\DeviceSupport
 -I
-C:\Users\user\Desktop\test1\libraries\CMSIS\DeviceSupport\Startup
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week2\test1\libraries\CMSIS\DeviceSupport\Startup
 -I
-C:\Users\user\Desktop\test1\libraries\STM32F10x_StdPeriph_Driver_v3.5\inc
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week2\test1\libraries\STM32F10x_StdPeriph_Driver_v3.5\inc
 -I
-C:\Users\user\Desktop\test1\libraries\STM32F10x_StdPeriph_Driver_v3.5\src
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week2\test1\libraries\STM32F10x_StdPeriph_Driver_v3.5\src
 -I
-C:\Users\user\Desktop\test1\user
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week2\test1\user
 -I
-C:\Users\user\Desktop\test1\user\inc
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week2\test1\user\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\CMSIS\Core\Include
 -I
