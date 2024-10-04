@@ -1,37 +1,47 @@
 ###############################################################################
 #
-# IAR ANSI C/C++ Compiler V8.22.1.15669/W32 for ARM       25/Sep/2024  22:17:05
+# IAR ANSI C/C++ Compiler V8.22.1.15669/W32 for ARM       02/Oct/2024  19:38:28
 # Copyright 1999-2018 IAR Systems AB.
 #
 #    Cpu mode     =  thumb
 #    Endian       =  little
-#    Source file  =  C:\Users\user\Desktop\test1\user\main.c
+#    Source file  =  
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\user\main.c
 #    Command line =  
-#        -f C:\Users\user\AppData\Local\Temp\EW20F9.tmp
-#        (C:\Users\user\Desktop\test1\user\main.c -D USE_STDPERIPH_DRIVER -D
-#        STM32F10X_CL -lC C:\Users\user\Desktop\test1\Debug\List -o
-#        C:\Users\user\Desktop\test1\Debug\Obj --no_cse --no_unroll --no_inline
-#        --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug
-#        --endian=little --cpu=Cortex-M3 -e --fpu=None --dlib_config
-#        "C:\Program Files (x86)\IAR Systems\Embedded Workbench
+#        -f C:\Users\user\AppData\Local\Temp\EW825F.tmp
+#        (C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\user\main.c
+#        -D USE_STDPERIPH_DRIVER -D STM32F10X_CL -lC
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\List
+#        -o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj
+#        --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa
+#        --no_clustering --no_scheduling --debug --endian=little
+#        --cpu=Cortex-M3 -e --fpu=None --dlib_config "C:\Program Files
+#        (x86)\IAR Systems\Embedded Workbench
 #        8.0\arm\INC\c\DLib_Config_Normal.h" -I
-#        C:\Users\user\Desktop\test1\libraries\CMSIS\DeviceSupport\ -I
-#        C:\Users\user\Desktop\test1\libraries\CMSIS\DeviceSupport\Startup\ -I
-#        C:\Users\user\Desktop\test1\libraries\STM32F10x_StdPeriph_Driver_v3.5\inc\
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\libraries\CMSIS\DeviceSupport\
 #        -I
-#        C:\Users\user\Desktop\test1\libraries\STM32F10x_StdPeriph_Driver_v3.5\src\
-#        -I C:\Users\user\Desktop\test1\user\ -I
-#        C:\Users\user\Desktop\test1\user\inc\ -Ol -I "C:\Program Files
-#        (x86)\IAR Systems\Embedded Workbench 8.0\arm\CMSIS\Core\Include\" -I
-#        "C:\Program Files (x86)\IAR Systems\Embedded Workbench
-#        8.0\arm\CMSIS\DSP\Include\")
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\libraries\CMSIS\DeviceSupport\Startup\
+#        -I
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\libraries\STM32F10x_StdPeriph_Driver_v3.5\inc\
+#        -I
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\libraries\STM32F10x_StdPeriph_Driver_v3.5\src\
+#        -I
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\user\
+#        -I
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\user\inc\
+#        -Ol -I "C:\Program Files (x86)\IAR Systems\Embedded Workbench
+#        8.0\arm\CMSIS\Core\Include\" -I "C:\Program Files (x86)\IAR
+#        Systems\Embedded Workbench 8.0\arm\CMSIS\DSP\Include\")
 #    Locale       =  C
-#    List file    =  C:\Users\user\Desktop\test1\Debug\List\main.lst
-#    Object file  =  C:\Users\user\Desktop\test1\Debug\Obj\main.o
+#    List file    =  
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\List\main.lst
+#    Object file  =  
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\main.o
 #
 ###############################################################################
 
-C:\Users\user\Desktop\test1\user\main.c
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\user\main.c
       1          #include "stm32f10x.h"
       2          
       3          #define RCC_APB2ENR (*(volatile unsigned int *)0x40021018)
@@ -177,10 +187,10 @@ C:\Users\user\Desktop\test1\user\main.c
    \   000000BE   0x6800             LDR      R0,[R0, #+0]
    \   000000C0   0x0480             LSLS     R0,R0,#+18
    \   000000C2   0xD406             BMI.N    ??main_4
-     53          GPIOD_BRR |= 0x18; // PD3, PD4 ON LED2, LED3
+     53          GPIOD_BRR |= 0x84; // PD3, PD4 ON LED2, LED3
    \   000000C4   0x4811             LDR.N    R0,??main_0+0x24  ;; 0x40011414
    \   000000C6   0x6800             LDR      R0,[R0, #+0]
-   \   000000C8   0xF050 0x0018      ORRS     R0,R0,#0x18
+   \   000000C8   0xF050 0x0084      ORRS     R0,R0,#0x84
    \   000000CC   0x490F             LDR.N    R1,??main_0+0x24  ;; 0x40011414
    \   000000CE   0x6008             STR      R0,[R1, #+0]
    \   000000D0   0xE7E5             B.N      ??main_1
@@ -191,10 +201,10 @@ C:\Users\user\Desktop\test1\user\main.c
    \   000000D4   0x6800             LDR      R0,[R0, #+0]
    \   000000D6   0x07C0             LSLS     R0,R0,#+31
    \   000000D8   0xD4E1             BMI.N    ??main_1
-     56          GPIOD_BSRR |= 0x18; // PD3, PD4 OFF LED2, LED3
+     56          GPIOD_BSRR |= 0x84; // PD3, PD4 OFF LED2, LED3
    \   000000DA   0x480B             LDR.N    R0,??main_0+0x20  ;; 0x40011410
    \   000000DC   0x6800             LDR      R0,[R0, #+0]
-   \   000000DE   0xF050 0x0018      ORRS     R0,R0,#0x18
+   \   000000DE   0xF050 0x0084      ORRS     R0,R0,#0x84
    \   000000E2   0x4909             LDR.N    R1,??main_0+0x20  ;; 0x40011410
    \   000000E4   0x6008             STR      R0,[R1, #+0]
    \   000000E6   0xE7DA             B.N      ??main_1

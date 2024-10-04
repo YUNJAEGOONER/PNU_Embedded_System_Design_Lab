@@ -1,44 +1,50 @@
 ###############################################################################
 #
-# IAR ELF Linker V8.22.1.15669/W32 for ARM                25/Sep/2024  22:17:06
+# IAR ELF Linker V8.22.1.15669/W32 for ARM                02/Oct/2024  19:38:28
 # Copyright 2007-2018 IAR Systems AB.
 #
-#    Output file  =  C:\Users\user\Desktop\test1\Debug\Exe\test1.out
-#    Map file     =  C:\Users\user\Desktop\test1\Debug\List\test1.map
+#    Output file  =  
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Exe\test1.out
+#    Map file     =  
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\List\test1.map
 #    Command line =  
-#        -f C:\Users\user\AppData\Local\Temp\EW2204.tmp
-#        (C:\Users\user\Desktop\test1\Debug\Obj\main.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\misc.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\startup_stm32f10x_cl.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_adc.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_bkp.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_can.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_cec.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_crc.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_dac.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_dbgmcu.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_dma.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_exti.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_flash.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_fsmc.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_gpio.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_i2c.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_it.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_iwdg.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_pwr.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_rcc.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_rtc.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_sdio.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_spi.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_tim.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_usart.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_wwdg.o
-#        C:\Users\user\Desktop\test1\Debug\Obj\system_stm32f10x.o -o
-#        C:\Users\user\Desktop\test1\Debug\Exe\test1.out --map
-#        C:\Users\user\Desktop\test1\Debug\List\test1.map --log
+#        -f C:\Users\user\AppData\Local\Temp\EW8473.tmp
+#        (C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\main.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\misc.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\startup_stm32f10x_cl.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_adc.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_bkp.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_can.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_cec.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_crc.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_dac.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_dbgmcu.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_dma.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_exti.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_flash.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_fsmc.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_gpio.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_i2c.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_it.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_iwdg.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_pwr.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_rcc.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_rtc.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_sdio.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_spi.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_tim.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_usart.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_wwdg.o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\system_stm32f10x.o
+#        -o
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Exe\test1.out
+#        --map
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\List\test1.map
+#        --log
 #        libraries,initialization,modules,redirects,sections,veneers,unused_fragments,call_graph
-#        --log_file C:\Users\user\Desktop\test1\Debug\List\test1.log --config
-#        "C:\Program Files (x86)\IAR Systems\Embedded Workbench
+#        --log_file
+#        C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\List\test1.log
+#        --config "C:\Program Files (x86)\IAR Systems\Embedded Workbench
 #        8.0\arm\config\linker\ST\stm32f107xC.icf" --semihosting --entry
 #        __iar_program_start --vfe --text_out locale)
 #
@@ -181,7 +187,7 @@ No sections matched the following patterns:
 
     Module                  ro code  rw data
     ------                  -------  -------
-C:\Users\user\Desktop\test1\Debug\Obj: [1]
+C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj: [1]
     main.o                      284
     startup_stm32f10x_cl.o      632
     stm32f10x_it.o               18
@@ -254,7 +260,7 @@ exit                    0x08000433    0x4  Code  Gb  exit.o [3]
 main                    0x080002f5  0x11c  Code  Gb  main.o [1]
 
 
-[1] = C:\Users\user\Desktop\test1\Debug\Obj
+[1] = C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj
 [2] = command line
 [3] = dl7M_tln.a
 [4] = rt7M_tl.a

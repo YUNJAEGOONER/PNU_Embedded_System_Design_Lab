@@ -5,15 +5,15 @@ Global:
   __as_NullEntry  __as_NullEntryStrict  command line
               definition:  __as_table_start
               definition:  __as_entries_start
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\main.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\main.o.
               definition:  main
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\misc.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\misc.o.
               definition:  NVIC_Init
               definition:  NVIC_PriorityGroupConfig
               definition:  NVIC_SetVectorTable
               definition:  NVIC_SystemLPConfig
               definition:  SysTick_CLKSourceConfig
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\startup_stm32f10x_cl.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\startup_stm32f10x_cl.o.
               reference :  __iar_program_start
               reference :  SystemInit
               definition:  __vector_table
@@ -89,7 +89,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\startup_stm32f10x_cl.o.
               weak def  :  CAN2_SCE_IRQHandler
               weak def  :  OTG_FS_IRQHandler
               reference :  CSTACK$$Limit
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_adc.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_adc.o.
               reference :  RCC_APB2PeriphResetCmd
               definition:  ADC_AnalogWatchdogCmd
               definition:  ADC_AnalogWatchdogSingleChannelConfig
@@ -127,7 +127,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_adc.o.
               definition:  ADC_StartCalibration
               definition:  ADC_StructInit
               definition:  ADC_TempSensorVrefintCmd
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_bkp.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_bkp.o.
               reference :  RCC_BackupResetCmd
               definition:  BKP_ClearFlag
               definition:  BKP_ClearITPendingBit
@@ -141,7 +141,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_bkp.o.
               definition:  BKP_TamperPinCmd
               definition:  BKP_TamperPinLevelConfig
               definition:  BKP_WriteBackupRegister
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_can.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_can.o.
               reference :  RCC_APB1PeriphResetCmd
               definition:  CAN_CancelTransmit
               definition:  CAN_ClearFlag
@@ -167,7 +167,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_can.o.
               definition:  CAN_Transmit
               definition:  CAN_TransmitStatus
               definition:  CAN_WakeUp
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_cec.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_cec.o.
               reference :  RCC_APB1PeriphResetCmd
               definition:  CEC_ClearFlag
               definition:  CEC_ClearITPendingBit
@@ -183,14 +183,14 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_cec.o.
               definition:  CEC_SendDataByte
               definition:  CEC_SetPrescaler
               definition:  CEC_StartOfMessage
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_crc.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_crc.o.
               definition:  CRC_CalcBlockCRC
               definition:  CRC_CalcCRC
               definition:  CRC_GetCRC
               definition:  CRC_GetIDRegister
               definition:  CRC_ResetDR
               definition:  CRC_SetIDRegister
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_dac.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_dac.o.
               reference :  RCC_APB1PeriphResetCmd
               definition:  DAC_Cmd
               definition:  DAC_DMACmd
@@ -204,11 +204,11 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_dac.o.
               definition:  DAC_SoftwareTriggerCmd
               definition:  DAC_StructInit
               definition:  DAC_WaveGenerationCmd
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_dbgmcu.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_dbgmcu.o.
               definition:  DBGMCU_Config
               definition:  DBGMCU_GetDEVID
               definition:  DBGMCU_GetREVID
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_dma.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_dma.o.
               definition:  DMA_ClearFlag
               definition:  DMA_ClearITPendingBit
               definition:  DMA_Cmd
@@ -220,7 +220,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_dma.o.
               definition:  DMA_Init
               definition:  DMA_SetCurrDataCounter
               definition:  DMA_StructInit
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_exti.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_exti.o.
               definition:  EXTI_ClearFlag
               definition:  EXTI_ClearITPendingBit
               definition:  EXTI_DeInit
@@ -229,7 +229,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_exti.o.
               definition:  EXTI_GetITStatus
               definition:  EXTI_Init
               definition:  EXTI_StructInit
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_flash.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_flash.o.
               definition:  FLASH_ClearFlag
               definition:  FLASH_EnableWriteProtection
               definition:  FLASH_EraseAllBank1Pages
@@ -258,7 +258,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_flash.o.
               definition:  FLASH_UserOptionByteConfig
               definition:  FLASH_WaitForLastBank1Operation
               definition:  FLASH_WaitForLastOperation
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_fsmc.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_fsmc.o.
               definition:  FSMC_ClearFlag
               definition:  FSMC_ClearITPendingBit
               definition:  FSMC_GetECC
@@ -278,7 +278,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_fsmc.o.
               definition:  FSMC_PCCARDDeInit
               definition:  FSMC_PCCARDInit
               definition:  FSMC_PCCARDStructInit
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_gpio.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_gpio.o.
               reference :  RCC_APB2PeriphResetCmd
               definition:  GPIO_AFIODeInit
               definition:  GPIO_DeInit
@@ -298,7 +298,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_gpio.o.
               definition:  GPIO_StructInit
               definition:  GPIO_Write
               definition:  GPIO_WriteBit
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_i2c.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_i2c.o.
               reference :  RCC_APB1PeriphResetCmd
               reference :  RCC_GetClocksFreq
               definition:  I2C_ARPCmd
@@ -334,7 +334,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_i2c.o.
               definition:  I2C_StretchClockCmd
               definition:  I2C_StructInit
               definition:  I2C_TransmitPEC
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_it.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_it.o.
               definition:  BusFault_Handler
               definition:  DebugMon_Handler
               definition:  HardFault_Handler
@@ -344,14 +344,14 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_it.o.
               definition:  SVC_Handler
               definition:  SysTick_Handler
               definition:  UsageFault_Handler
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_iwdg.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_iwdg.o.
               definition:  IWDG_Enable
               definition:  IWDG_GetFlagStatus
               definition:  IWDG_ReloadCounter
               definition:  IWDG_SetPrescaler
               definition:  IWDG_SetReload
               definition:  IWDG_WriteAccessCmd
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_pwr.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_pwr.o.
               reference :  RCC_APB1PeriphResetCmd
               definition:  PWR_BackupAccessCmd
               definition:  PWR_ClearFlag
@@ -362,7 +362,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_pwr.o.
               definition:  PWR_PVDCmd
               definition:  PWR_PVDLevelConfig
               definition:  PWR_WakeUpPinCmd
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_rcc.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_rcc.o.
               definition:  RCC_ADCCLKConfig
               definition:  RCC_AHBPeriphClockCmd
               definition:  RCC_AHBPeriphResetCmd
@@ -404,7 +404,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_rcc.o.
               definition:  RCC_RTCCLKConfig
               definition:  RCC_SYSCLKConfig
               definition:  RCC_WaitForHSEStartUp
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_rtc.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_rtc.o.
               definition:  RTC_ClearFlag
               definition:  RTC_ClearITPendingBit
               definition:  RTC_EnterConfigMode
@@ -419,7 +419,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_rtc.o.
               definition:  RTC_SetPrescaler
               definition:  RTC_WaitForLastTask
               definition:  RTC_WaitForSynchro
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_sdio.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_sdio.o.
               definition:  SDIO_CEATAITCmd
               definition:  SDIO_ClearFlag
               definition:  SDIO_ClearITPendingBit
@@ -450,7 +450,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_sdio.o.
               definition:  SDIO_StopSDIOReadWait
               definition:  SDIO_StructInit
               definition:  SDIO_WriteData
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_spi.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_spi.o.
               reference :  RCC_APB1PeriphResetCmd
               reference :  RCC_APB2PeriphResetCmd
               reference :  RCC_GetClocksFreq
@@ -477,7 +477,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_spi.o.
               definition:  SPI_SSOutputCmd
               definition:  SPI_StructInit
               definition:  SPI_TransmitCRC
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_tim.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_tim.o.
               reference :  RCC_APB1PeriphResetCmd
               reference :  RCC_APB2PeriphResetCmd
               definition:  TIM_ARRPreloadConfig
@@ -567,7 +567,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_tim.o.
               definition:  TIM_TimeBaseStructInit
               definition:  TIM_UpdateDisableConfig
               definition:  TIM_UpdateRequestConfig
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_usart.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_usart.o.
               reference :  RCC_APB1PeriphResetCmd
               reference :  RCC_APB2PeriphResetCmd
               reference :  RCC_GetClocksFreq
@@ -600,7 +600,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_usart.o.
               definition:  USART_SmartCardNACKCmd
               definition:  USART_StructInit
               definition:  USART_WakeUpConfig
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_wwdg.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_wwdg.o.
               reference :  RCC_APB1PeriphResetCmd
               definition:  WWDG_ClearFlag
               definition:  WWDG_DeInit
@@ -610,7 +610,7 @@ Loading object C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_wwdg.o.
               definition:  WWDG_SetCounter
               definition:  WWDG_SetPrescaler
               definition:  WWDG_SetWindowValue
-Loading object C:\Users\user\Desktop\test1\Debug\Obj\system_stm32f10x.o.
+Loading object C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\system_stm32f10x.o.
               definition:  AHBPrescTable
               definition:  SystemCoreClock
               definition:  SystemCoreClockUpdate
@@ -704,24 +704,24 @@ Selecting member abort.o(dl7M_tln.a) to define abort (optional).
               reference :  __exit
               definition:  abort
 Resolving duplicate symbol definitions
-  Picking BusFault_Handler [s8 C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_it.o]
-    Suppressing BusFault_Handler [s12 C:\Users\user\Desktop\test1\Debug\Obj\startup_stm32f10x_cl.o]
-  Picking DebugMon_Handler [s8 C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_it.o]
-    Suppressing DebugMon_Handler [s15 C:\Users\user\Desktop\test1\Debug\Obj\startup_stm32f10x_cl.o]
-  Picking NMI_Handler [s8 C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_it.o]
-    Suppressing NMI_Handler [s9 C:\Users\user\Desktop\test1\Debug\Obj\startup_stm32f10x_cl.o]
-  Picking HardFault_Handler [s8 C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_it.o]
-    Suppressing HardFault_Handler [s10 C:\Users\user\Desktop\test1\Debug\Obj\startup_stm32f10x_cl.o]
-  Picking MemManage_Handler [s8 C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_it.o]
-    Suppressing MemManage_Handler [s11 C:\Users\user\Desktop\test1\Debug\Obj\startup_stm32f10x_cl.o]
-  Picking PendSV_Handler [s8 C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_it.o]
-    Suppressing PendSV_Handler [s16 C:\Users\user\Desktop\test1\Debug\Obj\startup_stm32f10x_cl.o]
-  Picking SVC_Handler [s8 C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_it.o]
-    Suppressing SVC_Handler [s14 C:\Users\user\Desktop\test1\Debug\Obj\startup_stm32f10x_cl.o]
-  Picking SysTick_Handler [s8 C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_it.o]
-    Suppressing SysTick_Handler [s17 C:\Users\user\Desktop\test1\Debug\Obj\startup_stm32f10x_cl.o]
-  Picking UsageFault_Handler [s8 C:\Users\user\Desktop\test1\Debug\Obj\stm32f10x_it.o]
-    Suppressing UsageFault_Handler [s13 C:\Users\user\Desktop\test1\Debug\Obj\startup_stm32f10x_cl.o]
+  Picking BusFault_Handler [s8 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_it.o]
+    Suppressing BusFault_Handler [s12 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\startup_stm32f10x_cl.o]
+  Picking DebugMon_Handler [s8 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_it.o]
+    Suppressing DebugMon_Handler [s15 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\startup_stm32f10x_cl.o]
+  Picking NMI_Handler [s8 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_it.o]
+    Suppressing NMI_Handler [s9 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\startup_stm32f10x_cl.o]
+  Picking HardFault_Handler [s8 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_it.o]
+    Suppressing HardFault_Handler [s10 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\startup_stm32f10x_cl.o]
+  Picking MemManage_Handler [s8 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_it.o]
+    Suppressing MemManage_Handler [s11 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\startup_stm32f10x_cl.o]
+  Picking PendSV_Handler [s8 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_it.o]
+    Suppressing PendSV_Handler [s16 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\startup_stm32f10x_cl.o]
+  Picking SVC_Handler [s8 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_it.o]
+    Suppressing SVC_Handler [s14 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\startup_stm32f10x_cl.o]
+  Picking SysTick_Handler [s8 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_it.o]
+    Suppressing SysTick_Handler [s17 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\startup_stm32f10x_cl.o]
+  Picking UsageFault_Handler [s8 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\stm32f10x_it.o]
+    Suppressing UsageFault_Handler [s13 C:\Users\user\Desktop\scr\PNU_Embedded_System_Design_Lab\week1\test1\Debug\Obj\startup_stm32f10x_cl.o]
 *** Marking from roots ***
 Marking symbol __iar_program_start              Glb (10 cstartup_M.o) [program entry]
   Marking fragment #4498 .text (6 cstartup_M.o(rt7M_tl.a)) init:always
