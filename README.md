@@ -110,3 +110,7 @@ LCD 화면 메시지
 - 모터 드라이버는 토크제어, 속도제어, 전압제어, 전류제어, 위치제어 등을 정확하게 할 수 있다.
 
 ### 흐름도 및 구상도
+
+![스크린샷 2024-12-21 104408](https://github.com/user-attachments/assets/8091bf31-85fc-4402-8abc-b095f099e322)
+
+![스크린샷 2024-12-21 114029](https://github.com/user-attachments/assets/b62e14cb-e0d6-421a-a647-b72503bde669)
