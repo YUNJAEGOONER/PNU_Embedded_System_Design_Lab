@@ -111,6 +111,9 @@ LCD 화면 메시지
 
 ### 흐름도 및 구상도
 
+<img width="420" alt="flow" src="https://github.com/user-attachments/assets/bb80a551-4ada-445c-b138-0bdc406ca0e9" />
+
 ![스크린샷 2024-12-21 104408](https://github.com/user-attachments/assets/8091bf31-85fc-4402-8abc-b095f099e322)
 
 ![스크린샷 2024-12-21 114029](https://github.com/user-attachments/assets/b62e14cb-e0d6-421a-a647-b72503bde669)
+
