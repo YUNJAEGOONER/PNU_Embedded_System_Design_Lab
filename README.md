@@ -1,7 +1,5 @@
 # PNU_Embedded_System_Design_Lab
 
-## Term Project
-
 ## 구성원
 
 <div align="center">
@@ -12,7 +10,7 @@
 
 </div>
 
-## 소개
+## Term Project 소개
 - 수업 시간에 배운 다양한 센서와 보드의 기능을 활용하여 하드웨어를 개발한다.
 - Bluetooth 및 USART 통신 기능을 활용하여 하드웨어를 개발한다.
 - 아이들이 식물에 친숙해지고, 손쉽게 식물을 기를 수 있도록 돕는 키트를 개발한다.
