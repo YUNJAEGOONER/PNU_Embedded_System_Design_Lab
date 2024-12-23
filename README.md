@@ -109,11 +109,18 @@ LCD 화면 메시지
 - 모터 드라이버를 사용하여 수중 펌프 모터의 동작을 제어한다.
 - 모터 드라이버는 토크제어, 속도제어, 전압제어, 전류제어, 위치제어 등을 정확하게 할 수 있다.
 
-### 흐름도 및 구상도
+## 흐름도 및 구상도
 
-<img width="420" alt="flow" src="https://github.com/user-attachments/assets/73562175-509f-47cc-9c50-7e3a94105c24" />
+<img width="640" alt="flow" src="https://github.com/user-attachments/assets/73562175-509f-47cc-9c50-7e3a94105c24" />
 
 ![스크린샷 2024-12-21 104408](https://github.com/user-attachments/assets/8091bf31-85fc-4402-8abc-b095f099e322)
 
-![스크린샷 2024-12-21 114029](https://github.com/user-attachments/assets/b62e14cb-e0d6-421a-a647-b72503bde669)
+<img width="640" alt="flow" src="https://github.com/user-attachments/assets/b62e14cb-e0d6-421a-a647-b72503bde669" />
 
+## 결과 
+[동작 영상1](https://drive.google.com/file/d/1C_9mXjtmFFPAkQfF76P7xzhvCvXRdrTQ/view?usp=sharing)
+
+[동작 영상2](https://drive.google.com/file/d/1mirg9nbm5seZgQ8pPYR60qR2lpmO-KW8/view?usp=sharing)
+| ![텀프로젝트결과물4](https://github.com/user-attachments/assets/9dcb90b1-11f4-42ee-8932-d2bc95a7c851) | ![텀프로젝트결과물2](https://github.com/user-attachments/assets/0375bc82-9f7f-441d-ab62-d7eb4c615886) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![텀프로젝트결과물6](https://github.com/user-attachments/assets/0f102a5d-58e9-438d-a9a5-1cd1e2180930) | ![텀프로젝트결과물7](https://github.com/user-attachments/assets/be4ae120-c306-4825-9ae0-55153e1892c3) |
